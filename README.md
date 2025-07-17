@@ -1,7 +1,7 @@
 # FlixxApp
 
 Aplicativo web para busca e visualização de filmes e séries, consumindo dados diretamente da API do **The Movie Database (TMDb)** para trazer informações atualizadas e completas sobre títulos, trailers, sinopses e muito mais.
-
+Acesse o site em: https://gabpessiflixapp.netlify.app/
 ---
 
 ## Tecnologias Utilizadas
