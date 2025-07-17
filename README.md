@@ -18,13 +18,4 @@ Acesse o site em: https://gabpessiflixapp.netlify.app/
 - Listagem de filmes e séries populares
 - Busca dinâmica por título
 - Visualização de detalhes completos (sinopse, elenco, trailers, imagens)
-- Página personalizada para erros de rota (404)
-
----
-
-## Como Rodar o Projeto
-
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/gabpessi/flixxapp.git
 
